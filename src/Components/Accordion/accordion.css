@@ -1,0 +1,15 @@
+.accordionMenu {
+  width: 500px;
+  justify-items: center;
+  align-items: center;
+}
+.flex {
+  display: flex;
+}
+.btn {
+  margin-left: 10%;
+  font-size: 20px;
+}
+.accordion-content {
+  margin-top: 5%;
+}
